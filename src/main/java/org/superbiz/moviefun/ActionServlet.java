@@ -33,7 +33,7 @@ public class ActionServlet extends HttpServlet {
 
     private static final long serialVersionUID = -5832176047021911038L;
 
-    public static int PAGE_SIZE = 4;
+    public static int PAGE_SIZE = 5;
 
     @EJB
     private MoviesBean moviesBean;
